@@ -1,7 +1,7 @@
 name: FW360
 favicon: null
-layout_spectrum: 0.68496
-typography_spectrum: 0.059216099325567484
+layout_spectrum: 0.67919
+typography_spectrum: 0.74567
 title: Fieldwork 360
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#6d6e71'
-    - '#8cc63f'
-    - '#92db24'
+    - '#a4c2f4'
+    - '#ffffff'
+    - '#000000'
     - '#00ff00'
-    - '#8bd12e'
-  brandStrength: 0.125
-  lightness: 0.10917627019807696
-  saturation: 0.6875
+  brandStrength: 0.1875
+  lightness: 0.3125
+  saturation: 0.625
   rhythmicContrast: 0.1644517877139151
 purpose: []
