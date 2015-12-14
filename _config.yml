@@ -1,6 +1,6 @@
 name: FW360
 favicon: null
-layout_spectrum: 0.7363904449157417
+layout_spectrum: 0.68496
 typography_spectrum: 0.059216099325567484
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.04187366412952542
+    - '#6d6e71'
+    - '#8cc63f'
+    - '#92db24'
+    - '#00ff00'
+    - '#8bd12e'
+  brandStrength: 0.125
   lightness: 0.10917627019807696
-  saturation: 0.7175215256866068
+  saturation: 0.6875
   rhythmicContrast: 0.1644517877139151
 purpose: []
